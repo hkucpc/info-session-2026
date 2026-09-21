@@ -284,8 +284,8 @@ layout: two-cols-header
 ### CCPC
 - **Changchun National:** 17–18 Oct
 - **Women’s Division:** 24–25 Oct
-- **Jingzhou National:** 7–8 Nov
-- **Leshan National:** 14–15 Nov
+- **Leshan National:** 7–8 Nov
+- **Jingzhou National:** 14–15 Nov
 - **Xiamen National:** 21–22 Nov
 - **Final:** TBA (late Apr / early May)
 
